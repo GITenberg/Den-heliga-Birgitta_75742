@@ -1,0 +1,36 @@
+_repo: Den-heliga-Birgitta_75742
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wahlström, Lydia
+    aliases:
+    - Wahlstrom, Lydia
+    - Wahlström, Lydia Katarina
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '58122'
+    url: http://www.gutenberg.org/2009/agents/58122
+    wikipedia: https://en.wikipedia.org/wiki/Lydia_Wahlstr%C3%B6m
+description: ''
+gutenberg_issued: '2025-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75742'
+language: sv
+pgterms:marc904: http://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A154395&dswid=4904
+pgterms:marc905: 20210718224126wahlstrm
+pgterms:marc906: '1905'
+pgterms:marc907: se
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net.
+  This text was produced based on page images generously provided by ALVIN, the Swedish
+  national cultural heritage platform.
+publication_note: '  $aStockholm :$bNordstedt, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bridget, of Sweden, Saint, approximately 1303-1373'
+- !lcc 'BX'
+- GITenberg
+title: Den heliga Birgitta
+url: http://www.gutenberg.org/ebooks/75742
